@@ -14,4 +14,4 @@ So you decided you want or need KeySAV. But there are so many different ones, wh
   * Did I say it was cross platform?
   * And a great documentation ;)
 
-Now that you're convinved, let's [get started]().
+Now that you're convinced, let's [get started]().
