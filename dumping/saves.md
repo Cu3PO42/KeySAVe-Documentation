@@ -49,3 +49,7 @@ The fastest way to unlock all slots is the following:
 * ???
 * Profit.
 
+## Accessing your data
+
+To check any Pokémon in your boxes save your game (once is enough) and export the save as described above. Then open the file in KeySAVe's `Dumping` tab. All Pokémon that can be decrypted will be displayed.
+
