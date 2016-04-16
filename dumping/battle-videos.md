@@ -39,6 +39,5 @@ You're all good to go now!
 
 ## Advanced topics
 
-Want to display your Pokémon differently? Check out the [Formatting Options]().  
-Want to filter the Pokémon to be displayed (well, there really aren't too many with battle videos, so you may not want this)? Check out the [filters]()!  
-Want to export your dumped data? Check out the various [exports]()!
+Want to display your Pokémon differently? Check out the [Formatting Options](../formatting.md).  
+Want to filter the Pokémon to be displayed (well, there really aren't too many with battle videos, so you may not want this)? Check out the [filters](../filters.md)!  
