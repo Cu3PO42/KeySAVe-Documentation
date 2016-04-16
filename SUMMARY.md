@@ -1,6 +1,3 @@
 # Summary
 
-* [Introduction](README.md)
-* [Getting Started](getting-started.md)
-* [Dumping](dumping.md)
-
+* [First Chapter](chapter1.md)
