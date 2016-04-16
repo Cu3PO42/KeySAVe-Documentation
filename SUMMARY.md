@@ -1,3 +1,14 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Getting Started](getting-started.md)
+* [Dumping](dumping.md)
+  * [Homebrew](dumping/homebrew.md)
+  * [YABD](dumping/yabd.md)
+  * [Saves](dumping/saves.md)
+  * [Battle Videos](dumping/battle-videos.md)
+* [Formatting](formatting.md)
+  * [Pretty](formatting/pretty.md)
+  * [Handlebars](formatting/handlebars.md)
+  * [Legacy (KeySAV2)](formatting/legacy.md)
+  * [Reddit](formatting/reddit.md)
+* [Filters](filters.md)
