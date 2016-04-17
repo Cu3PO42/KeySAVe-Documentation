@@ -12,3 +12,5 @@
   * [Legacy (KeySAV2)](formatting/legacy.md)
   * [Reddit](formatting/reddit.md)
 * [Filters](filters.md)
+* [Getting Involved](getting-involved.md)
+* [FAQ](faq.md)
