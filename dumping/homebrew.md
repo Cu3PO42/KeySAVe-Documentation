@@ -7,3 +7,5 @@ Since the requirements for Homebrew are numerous and you have a lot of different
 You can also extract decrypted save data using SaveDataFiler if you are running a CFW or if you are using a Cybersaves device.
 
 I have plans for other checking methods involving Homebrew that unfortunately I cannot work on currently as my 3DS is broken.
+
+{% include "footer.md" %}

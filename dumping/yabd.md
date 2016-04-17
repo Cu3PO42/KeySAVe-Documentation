@@ -24,3 +24,5 @@ Special credits go to SciresM on whose code this is based and Yifanlu for revers
 ## A final note to everyone who still uses this method
 
 At the time of writing this it has been almost been a year since the spider exploits have been patched. If you are still using this, you have access to Homebrew and can downgrade to 9.2.0 and run a CFW which will still allow easy checking, but also allow you to use your 3DS online again.
+
+{% include "footer.md" %}
