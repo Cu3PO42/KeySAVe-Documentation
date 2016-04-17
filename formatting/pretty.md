@@ -14,9 +14,9 @@ There really isn't much to be said about this plugin. It shows a Pokémon's
   * Language Tag
   * and a sprite!
 
-TODO: Screenshot
+![Pretty Output](../static/pretty-output.png)
 
-You can configure it to not show Pokémon that might be *ghosts* (read more about that here TODO LINK), show them or mark them by darkening their cards.
+You can configure it to not show Pokémon that might be *ghosts* (read more about that [here](../dumping/saves.md#ghosts)), show them or mark them by darkening their cards.
 
 In the future ball and held item, as well as other info might be shown. If you have an opinion on that, please [leave me feedback]()!
 

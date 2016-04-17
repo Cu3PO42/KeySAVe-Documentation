@@ -29,6 +29,7 @@ You will be required to create backups of your save in this process. If you are 
 
 **NOTE**: It is possible, but very unlikely (~0.02%), that even if you followed the steps exactly, decryption will fail. In that case, please choose six different Pokémon (replace all of them) and start over.
 
+<a id="ghosts"></a>
 ### Breaking the encryption for more boxes
 
 **IMPORTANT, DO NOT SKIP THIS SECTION**: After the initial decryption, KeySAVe does not know how to decrypt most of your slots yet. It can only decrypt slots 1-6 in boxes one and two and has the neccessary data to create keys for other slots over time.

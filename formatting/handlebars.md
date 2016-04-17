@@ -98,7 +98,7 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`isEgg`||
 |`isNick`||
 |`isShiny`||
-|`isGhost`|A flag indicating if KeySAVe considers the Pokémon a *ghost*. For more information, read (dumping/saves.md).|
+|`isGhost`|A flag indicating if KeySAVe considers the Pokémon a *ghost*. For more information, read [this](dumping/saves.md#ghosts).|
 |`isFatefulEncounter`||
 |`data`|An array containing the raw pk6 file.|
 |`nickname`||

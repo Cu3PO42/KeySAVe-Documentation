@@ -1,6 +1,6 @@
 # The Legacy (KeySAV2) formatting plugin
 
-This formatting plugin supports usage of formatting strings from KeySAV2. It is provided for backwards compatibility and to make the migration easier for you. If you are looking to create a new format string or are new to KeySAV in general, I strongly recommend you check out the [Handlebars plugin](/handlebars) instead. It is a lot more powerful and versatile. Regardless, here is a guide:
+This formatting plugin supports usage of formatting strings from KeySAV2. It is provided for backwards compatibility and to make the migration easier for you. If you are looking to create a new format string or are new to KeySAV in general, I strongly recommend you check out the [Handlebars plugin](handlebars.md) instead. It is a lot more powerful and versatile. Regardless, here is a guide:
 
 The header is shown before your dumping output or before every box should you choose to split them. A sensible default can be generated from your format string by clicking the reload button to the right of the text field.
 
@@ -80,6 +80,6 @@ In addition to that, a number of settings are available:
 
   * Show ESV for hatched Pokémon (or leave it blank)
   * Split Pokémon into boxes (or show them as one big table)
-  * Show/hide/mark ghosts
+  * Show/hide/mark [ghosts](../dumping/saves.md#ghosts)
 
 Back to the [formatting options](../formatting.md).
