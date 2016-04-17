@@ -12,4 +12,4 @@ The Reddit formatting plugin renders your Pokémon in tables as they would be di
 
 The appropriate Markdown will be generated to use them on the subreddit. Use the 'copy to clipboard' or 'save to file' button to access it.
 
-Back to the [formatting overview](../formatting.md).
+{% include "footer.md" %}

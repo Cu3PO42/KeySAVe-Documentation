@@ -82,4 +82,4 @@ In addition to that, a number of settings are available:
   * Split Pokémon into boxes (or show them as one big table)
   * Show/hide/mark [ghosts](../dumping/saves.md#ghosts)
 
-Back to the [formatting options](../formatting.md).
+{% include "footer.md" %}

@@ -209,4 +209,4 @@ This shows `STUFF` if `condition` is true, otherwise `THINGS`. The `else` branch
 
 This repeats the template for every element in the array and sets the context to that object.
 
-Back to the [formatting overview](../formatting.md).
+{% include "footer.md" %}

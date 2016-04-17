@@ -20,4 +20,4 @@ You can configure it to not show Pokémon that might be *ghosts* (read more abou
 
 In the future ball and held item, as well as other info might be shown. If you have an opinion on that, please [leave me feedback]()!
 
-Back to the [formatting overview](../formatting.md)!
+{% include "footer.md" %}
