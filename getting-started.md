@@ -8,4 +8,5 @@ First of you will want to grab the latest version of KeySAVe from [GitHub](https
 
 Now that you have your release, go ahead and extract it to the folder of your choice. You can start KeySAVe by double clicking the application on Mac, `KeySAVe.exe` on Windows and starting the binary `KeySAVe` on Linux (you may be required to mark it as executable if you can't start it right away.)
 
-Now let's get some data extracted from your game. Go to the Dumping page for an overview of the methods that are available.
+Now let's get some data extracted from your game. Go to the [Dumping](dumping.md) page for an overview of the methods that are available.  
+If you currently use KeySAV2, check out the [migration guide](migration.md).
