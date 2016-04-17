@@ -1,6 +1,6 @@
 # Using Battle Videos to dump your data
 
-Using Battle Videos you can check up to 6 Pokémon at the same time of which at least one needs to be battle ready (that means you won't be able to check 6 eggs at the same time). You also need to find someone who will battle you every time you want to check any Pokémon. As such this method is very inconvenient. The only situation when this method is recommended it to check a Pokémon that you may or may not soft-reset.
+Using Battle Videos you can check up to 6 Pokémon at the same time of which at least one needs to be battle ready (that means you won't be able to check 6 eggs at the same time). You also need to find someone who will battle you every time you want to check any Pokémon (or use a second console). As such this method is very inconvenient. The only situation when this method is recommended it to check a Pokémon that you may or may not soft-reset.
 
 ## Requirements
 
@@ -10,11 +10,11 @@ Using Battle Videos you can check up to 6 Pokémon at the same time of which at 
 
 ## Set Up
 
-You can store up to 100 battle videos per game on your SD card. Each of them is stored in a *slot*. You have to break the encryption for each slot separately and you can only decrypt slots that you have a key for. The game will always use the lowest available slot, so make sure to only use the slots you have broken.
+You can store up to 100 battle videos per game on your SD card. Each of them is stored in a *slot*. You have to break the encryption for each slot separately and you can only decrypt slots that you have a key for. However creating that key is a one time process (per slot). The game will always use the lowest available slot, so make sure to only use the slots you have broken.
 
 A key will always be able to decrypt your own party, but it may or may not be able to decrypt your opponent's Pokémon at the same time. This depends on whether your opponent has followed the following steps as well during the creation of the key.
 
-During the following steps you will be asked to access your battle vidoes, they're stored in one of the following folders on your SD card, where an asterisk means 'any folder':
+During the following steps you will be asked to access your battle videos, they're stored in one of the following folders on your SD card, where an asterisk means 'any folder':
 
 Game|Folder  
 --|--

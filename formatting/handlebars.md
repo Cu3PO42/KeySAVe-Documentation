@@ -6,7 +6,7 @@ You have the following settings:
 
   * A header that will be displayed over the dumping output
   * A handlebars template to format each Pokémon
-  * The toggle to seperate the boxes from each other
+  * The toggle to separate the boxes from each other
   * And a template that is used to generate the heading for each box.
 
 {% raw %}
