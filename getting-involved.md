@@ -6,7 +6,7 @@ KeySAVᵉ is an open-source project and you can get involved in many different w
 
 Did you encounter a bug? Is something not working as you'd expect it to? Do you think something could be better than it is currently? Need a new feature? Or do you just want to say hi?
 
-In any case, you can [create an issue on GitHub](https://github.com/Cu3PO42/KeySAVᵉ/issues/new) write me an [e-mail](mailto:cu3po42@gmail.com), contact me on Twitter ([@Cu3PO42](https://twitter.com/Cu3PO42)), send me a PM on Reddit ([/u/Cu3PO42](https://reddit.com/u/Cu3PO42)) or join us at [#KeySAVᵉ](irc://irc.synirc.net:6667/#KeySAVᵉ) on synIRC. I'm looking forward to hearing from you!
+In any case, you can [create an issue on GitHub](https://github.com/Cu3PO42/KeySAVe/issues/new) write me an [e-mail](mailto:cu3po42@gmail.com), contact me on Twitter ([@Cu3PO42](https://twitter.com/Cu3PO42)), send me a PM on Reddit ([/u/Cu3PO42](https://reddit.com/u/Cu3PO42)) or join us at [#KeySAVe](irc://irc.synirc.net:6667/#KeySAVe) on synIRC. I'm looking forward to hearing from you!
 
 A few things that are planned already:
 
