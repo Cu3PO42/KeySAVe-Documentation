@@ -1,6 +1,6 @@
 # Getting Started
 
-First of you will want to grab the latest version of KeySAVᵉ from [GitHub](https://github.com/Cu3PO42/KeySAVᵉ/releases). A couple of notes on that:
+First of you will want to grab the latest version of KeySAVᵉ from [GitHub](https://github.com/Cu3PO42/KeySAVe/releases). A couple of notes on that:
 
   * `-darwin-` is the release you want if you're on Mac OS X. The reason for this is that OS X's kernel is called Darwin!
   * There is no release specifically for Windows 64-bit, but the 32-bit version will work just fine!
