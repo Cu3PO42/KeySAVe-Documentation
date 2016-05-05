@@ -18,3 +18,11 @@ KeySAVᵉ can copy your dumping output to the clipboard, save it to a file or sa
 
 KeySAVᵉ is based on GitHub's Electron. This means that it includes a full installation of Chrome and Node.js. And then there is the sprites
 used for the pretty output that take up about 19MB. The application code itself is barely 3MB big...
+
+## I'm on Mac and it says the app couldn't be opened because it is from an unidentified developer.
+
+This 'error' occurs because I am not a member of Apple's developer program, but it is easily circumvented. Just locate `KeySAVe.app` in the finder, right click and click open. It will now give you the option to open the application anyway. You only have to do this the first time you open KeySAVᵉ.
+
+## I'm on Windows 10 and it says the computer was prevented from harm and doesn't open the app.
+
+Just click on 'more information' and an open button will appear. You only have to do this once. 
