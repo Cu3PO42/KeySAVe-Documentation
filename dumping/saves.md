@@ -1,14 +1,14 @@
 # Accessing your save data directly
 
-KeySAVe can read and decrypt your save data directly. This requires either a digital copy of the game or a Powersaves 3DS if you use a physical copy. If you have a 3DS with access to Homebrew or a Cybersaves device, please read the respective guides instead.
+KeySAVᵉ can read and decrypt your save data directly. This requires either a digital copy of the game or a Powersaves 3DS if you use a physical copy. If you have a 3DS with access to Homebrew or a Cybersaves device, please read the respective guides instead.
 
 Using this method you can view all 930 Pokémon in your boxes. Viewing your party and battle box is not currently supported. This is one of the fastest ways to check a large number of Pokémon after the initial decryption process is completed.
 
 ## Initial decryption
 
-To create the keys needed for the decryption, KeySAVe needs two saves in specific configurations. Please follow the guide exactly as the process will otherwise fail.
+To create the keys needed for the decryption, KeySAVᵉ needs two saves in specific configurations. Please follow the guide exactly as the process will otherwise fail.
 
-This process differs only slightly from the decryption process used by the original builds of KeySAV2. KeySAVe is backwards compatible to that process, so you can use those saves if you still have them, however if you do that, you will be required to save twice to view data in your saves. This process is identical to the one used by my builds of KeySAV2, so if you had one of those, you don't need to do this again.
+This process differs only slightly from the decryption process used by the original builds of KeySAV2. KeySAVᵉ is backwards compatible to that process, so you can use those saves if you still have them, however if you do that, you will be required to save twice to view data in your saves. This process is identical to the one used by my builds of KeySAV2, so if you had one of those, you don't need to do this again.
 
 You will be required to create backups of your save in this process. If you are using
 
@@ -24,7 +24,7 @@ You will be required to create backups of your save in this process. If you are 
 7. Create a backup of your save as explained above. Name it `16`.
 8. Move the six Pokémon from box one to box two. It is important that you preserve their order exactly.
 9. Create another backup. Name it `165`.
-10. In KeySAVe, go to the breaking tab and open `16` as file 1 and `165` as file 2. Click on 'Break'.
+10. In KeySAVᵉ, go to the breaking tab and open `16` as file 1 and `165` as file 2. Click on 'Break'.
 11. You should see a success message, your key will now be saved.
 
 **NOTE**: It is possible, but very unlikely (~0.02%), that even if you followed the steps exactly, decryption will fail. In that case, please choose six different Pokémon (replace all of them) and start over.
@@ -32,26 +32,26 @@ You will be required to create backups of your save in this process. If you are 
 <a id="ghosts"></a>
 ### Breaking the encryption for more boxes
 
-**IMPORTANT, DO NOT SKIP THIS SECTION**: After the initial decryption, KeySAVe does not know how to decrypt most of your slots yet. It can only decrypt slots 1-6 in boxes one and two and has the neccessary data to create keys for other slots over time.
+**IMPORTANT, DO NOT SKIP THIS SECTION**: After the initial decryption, KeySAVᵉ does not know how to decrypt most of your slots yet. It can only decrypt slots 1-6 in boxes one and two and has the neccessary data to create keys for other slots over time.
 
-To be able to decrypt a slot at all, you need to have opened a save that has that slot empty. To determine which is the empty state you also need to open saves that have two different Pokémon in that slot. Until that happened a slot is not fully unlocked and you may encounter *ghost* Pokémon. That is, either Pokémon that are actually in the save don't show up at all, or Pokémon that are not in the save do show up. KeySAVe knows when a Pokémon might be a *ghost* and most formatting options will either offer you to hide them entirely or mark them as such.
+To be able to decrypt a slot at all, you need to have opened a save that has that slot empty. To determine which is the empty state you also need to open saves that have two different Pokémon in that slot. Until that happened a slot is not fully unlocked and you may encounter *ghost* Pokémon. That is, either Pokémon that are actually in the save don't show up at all, or Pokémon that are not in the save do show up. KeySAVᵉ knows when a Pokémon might be a *ghost* and most formatting options will either offer you to hide them entirely or mark them as such.
 
-KeySAVe will improve your keys as it sees more data automatically. If you have a lot of backups, KeySAVe can scan them automatically. To do that, go to the `Breaking` tab and click on `Scan Folder` and select the folder containing your saves.
+KeySAVᵉ will improve your keys as it sees more data automatically. If you have a lot of backups, KeySAVᵉ can scan them automatically. To do that, go to the `Breaking` tab and click on `Scan Folder` and select the folder containing your saves.
 
 The fastest way to unlock all slots is the following:
 
 * Empty all boxes.
-* Create a backup and open it in KeySAVe.
+* Create a backup and open it in KeySAVᵉ.
 * Fill all boxes with Pokémon, then save in-game.
 * Soft reset. (`L+R+Select`)
 * Move the last box to the first.
 * Save again.
-* Create another backup and open it in KeySAVe.
+* Create another backup and open it in KeySAVᵉ.
 * ???
 * Profit.
 
 ## Accessing your data
 
-To check any Pokémon in your boxes save your game (once is enough) and export the save as described above. Then open the file in KeySAVe's `Dumping` tab. All Pokémon that can be decrypted will be displayed.
+To check any Pokémon in your boxes save your game (once is enough) and export the save as described above. Then open the file in KeySAVᵉ's `Dumping` tab. All Pokémon that can be decrypted will be displayed.
 
 {% include "footer.md" %}

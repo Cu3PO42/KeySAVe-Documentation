@@ -35,7 +35,7 @@ AS|`/Nintendo 3DS/*/*/extdata/00000000/0011c500/00000000`
 10. Close your 3DS, take out the SD card and put it into your computer.
 11. Go to the appropriate folder for your game.
 12. Copy the file to a folder of your choice and append `-2` to the name.
-13. Now start KeySAVe and go to the Breaking tab.
+13. Now start KeySAVᵉ and go to the Breaking tab.
 14. Click on *File 1* and open the video from step 6.
 15. Click on *File 2* and open the video from step 12.
 16. You should now see a dialog that a key has been created, it will be saved automatically. If you get an error, you have not followed the instructions correctly, please start over.
@@ -48,7 +48,7 @@ Now that the boring part is over, let's get right to dumping your Pokémon.
 3. Start a battle and forfeit.
 4. When asked to save the battle video, say yes.
 5. Close your 3DS, take out the SD card and put it into your computer.
-6. Go to the dumping tab in KeySAVe, click open file.
+6. Go to the dumping tab in KeySAVᵉ, click open file.
 7. Go to TODO and select the battle video you want to view.
 
 You're all good to go now!

@@ -1,6 +1,6 @@
 # Dumping your Pokémon
 
-There are various different methods that KeySAVe can use to access and decrypt your data, each with their own unique requirements and advantages. From most convenient to least convenient these are:
+There are various different methods that KeySAVᵉ can use to access and decrypt your data, each with their own unique requirements and advantages. From most convenient to least convenient these are:
 
   1. [Homebrew](/dumping/homebrew) - at the time of writing it requires either a 3DS on 10.5.0 or less or - if you're on 10.7 - a copy of Cubic Ninja or The Legend Of Zelda Ocarina Of Time or a physical copy of Smash, a N3DS and a PC running Linux.
   2. [YABD](/dumping/yabd) - requires a 3DS between 9.0.0 and 9.5.0.

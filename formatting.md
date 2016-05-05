@@ -1,8 +1,8 @@
 # Formatting your Pokémon
 
-So you have found a way to dump your Pokémon, cool! By default KeySAVe will display your Pokémon in its 'pretty' output. It is great for looking what's in your boxes, shows a lot of useful and of course it looks good (duh!). However it is not so great if you want to get a quick overview at all the Pokémon in your boxes or want the data in a copy-pastable format.
+So you have found a way to dump your Pokémon, cool! By default KeySAVᵉ will display your Pokémon in its 'pretty' output. It is great for looking what's in your boxes, shows a lot of useful and of course it looks good (duh!). However it is not so great if you want to get a quick overview at all the Pokémon in your boxes or want the data in a copy-pastable format.
 
-As such there are various different output modes. KeySAVe relies on plugins to do its formatting and comes with a few by default, but you can also [write your own](/formatting/api-documentation).  
+As such there are various different output modes. KeySAVᵉ relies on plugins to do its formatting and comes with a few by default, but you can also [write your own](/formatting/api-documentation).  
 The following plugins are preinstalled:
 
   1. The [pretty output](/formatting/pretty) that is enabled by default.

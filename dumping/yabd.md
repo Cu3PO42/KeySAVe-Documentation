@@ -11,7 +11,7 @@ YABD is a small piece of software that dumps your boxes using an exploit in the 
 5. The browser will exit and you will be returned to the home menu.
 6. Exit your game.
 7. There is a new file `boxes.bin` at the root of your SD.
-8. Open this file in KeySAVe to view your data.
+8. Open this file in KeySAVᵉ to view your data.
 
 ## Troubleshooting
 

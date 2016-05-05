@@ -98,7 +98,7 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`isEgg`||
 |`isNick`||
 |`isShiny`||
-|`isGhost`|A flag indicating if KeySAVe considers the Pokémon a *ghost*. For more information, read [this](dumping/saves.md#ghosts).|
+|`isGhost`|A flag indicating if KeySAVᵉ considers the Pokémon a *ghost*. For more information, read [this](dumping/saves.md#ghosts).|
 |`isFatefulEncounter`||
 |`data`|An array containing the raw pk6 file.|
 |`nickname`||
@@ -115,7 +115,7 @@ Introducing *helpers*. In Handlebars a helper is a function taking some input da
 {{helper argument1 argument2}}
 ```
 
-KeySAVe comes with the following helpers that are specific to Pokémon:
+KeySAVᵉ comes with the following helpers that are specific to Pokémon:
 
 |Helper|Arguments|Description|
 |------|---------|-----------|

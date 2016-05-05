@@ -1,6 +1,6 @@
-# KeySAVe
+# KeySAVᵉ
 
-So you decided you want or need KeySAV. But there are so many different ones, which one should you use? I promise, KeySAVe (*pronounced* Key-SAV-e) is the best KeySAV I ever made and I think it's also better than any other versions I'm aware of. Here's why:
+So you decided you want or need KeySAV. But there are so many different ones, which one should you use? I promise, KeySAVᵉ (*pronounced* Key-SAV-e) is the best KeySAV I ever made and I think it's also better than any other versions I'm aware of. Here's why:
 
   * No saving twice required.
   * Compatible with all legacy KeySAV2 data and keys.
