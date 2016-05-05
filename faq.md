@@ -13,3 +13,8 @@ That can sometimes happen when your key is not yet complete and is a direct cons
 ## How do I export my Pokémon?
 
 KeySAVe can copy your dumping output to the clipboard, save it to a file or save the `pk6` files. Use the three buttons directly over the dumping output.
+
+## Why is KeySAVe so big?
+
+KeySAVe is based on GitHub's Electron. This means that it includes a full installation of Chrome and Node.js. And then there is the sprites
+used for the pretty output that take up about 19MB. The application code itself is barely 3MB big...

@@ -14,6 +14,7 @@ A few things that are planned already:
 * Make the breaking process easier by having KeySAVe do some extra things for you.
 * Making the theme adjustable. I might make the theme fully customizable or just offer a light and a dark version.
 * More checking methods. I have some ideas for checking methods based on Homebrew, but don't currently have a 3DS since mine broke.
+* Lots of optimizations.
 
 ## Contributing
 
