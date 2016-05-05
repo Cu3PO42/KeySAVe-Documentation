@@ -21,3 +21,5 @@ A few things that are planned already:
 KeySAVᵉ itself is hosted on [GitHub](https://github.com/Cu3PO42/KeySAVᵉ), feel free to fork it and send me some Pull Requests! The decryption part is a separate project called [KeySAVCoreJS](https://github.com/Cu3PO42/KeySAVCoreJS).
 
 If you want to help any other way, just let me know and we'll figure something out!
+
+I still need/want a new icon that scales better across resolutions, so if you're interested in helping with that, please do let me know!
