@@ -46,7 +46,7 @@ The fastest way to unlock all slots is the following, assuming you have a key th
 * Soft reset. (`L+R+Select`)
 * Move around the boxes, i.e. either shift Box 1 to 2, 2 to 3, ... 30 to 31 and 31 to 1, or switch them in pairs, i.e. 1 with 2, 3 with 4, ...
 * Save again.
-* Create another backup and open it in KeySAVᵉ.
+* Create another backup and open it in the Dumping tab in KeySAVᵉ.
 * ???
 * Profit.
 
