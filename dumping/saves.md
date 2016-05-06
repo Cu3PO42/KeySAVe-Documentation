@@ -23,7 +23,7 @@ You will be required to create backups of your save in this process. If you are 
 6. Exit the game.
 7. Create a backup of your save as explained above. Name it `16`.
 8. Move the six Pokémon from box one to box two. It is important that you preserve their order exactly.
-9. Create another backup. Name it `165`.
+9. Create another backup (DO NOT SAVE TWICE). Name it `165`.
 10. In KeySAVᵉ, go to the breaking tab and open `16` as file 1 and `165` as file 2. Click on 'Break'.
 11. You should see a success message, your key will now be saved.
 
