@@ -38,13 +38,13 @@ To be able to decrypt a slot at all, you need to have opened a save that has tha
 
 KeySAVᵉ will improve your keys as it sees more data automatically. If you have a lot of backups, KeySAVᵉ can scan them automatically. To do that, go to the `Breaking` tab and click on `Scan Folder` and select the folder containing your saves.
 
-The fastest way to unlock all slots is the following:
+The fastest way to unlock all slots is the following, assuming you have a key that does not require saving twice:
 
 * Empty all boxes.
 * Create a backup and open it in KeySAVᵉ.
 * Fill all boxes with Pokémon, then save in-game.
 * Soft reset. (`L+R+Select`)
-* Move the last box to the first.
+* Move around the boxes, i.e. either shift Box 1 to 2, 2 to 3, ... 30 to 31 and 31 to 1, or switch them in pairs, i.e. 1 with 2, 3 with 4, ...
 * Save again.
 * Create another backup and open it in KeySAVᵉ.
 * ???
