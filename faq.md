@@ -26,3 +26,7 @@ This 'error' occurs because I am not a member of Apple's developer program, but 
 ## I'm on Windows 10 and it says the computer was prevented from harm and doesn't open the app.
 
 Just click on 'more information' and an open button will appear. You only have to do this once. 
+
+## I'm on Windows and when trying to extract the zip file, it tells me the file name was too long for the destination.
+
+This is a limitation of Windows. Please delete the extracted folder and extract the ZIP again to a folder closer to the root of your hard drive. For example `C:\KeySAVe`.
