@@ -18,7 +18,7 @@ A few things that are planned already:
 
 ## Contributing
 
-KeySAVᵉ itself is hosted on [GitHub](https://github.com/Cu3PO42/KeySAVᵉ), feel free to fork it and send me some Pull Requests! The decryption part is a separate project called [KeySAVCoreJS](https://github.com/Cu3PO42/KeySAVCoreJS). If you just want to help me out a bit, it would be most appreciated if you gave the project a star on [GitHub](https://github.com/Cu3PO42/KeySAVᵉ)!
+KeySAVᵉ itself is hosted on [GitHub](https://github.com/Cu3PO42/KeySAVe), feel free to fork it and send me some Pull Requests! The decryption part is a separate project called [KeySAVCoreJS](https://github.com/Cu3PO42/KeySAVCoreJS). If you just want to help me out a bit, it would be most appreciated if you gave the project a star on [GitHub](https://github.com/Cu3PO42/KeySAVe)!
 
 If you want to help any other way, just let me know and we'll figure something out!
 
