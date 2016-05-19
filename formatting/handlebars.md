@@ -155,8 +155,10 @@ KeySAVᵉ comes with the following helpers that are specific to Pokémon:
 |`regionName`|||
 |`countryName`|||
 |`ribbons`||An array of Ribbons this Pokémon has. Usage example: `{{#each ribbons}}{{this}}{{/each}}`|
+|`characteristic`|||
 |`esacpe`|`str`|Escape backslashes and quotes.|
 |`toJson`|`element`|Stringify the passed parameter to JSON.|
+|`eval`|`expression`|Takes any JavaScript expression and evaluates it. If you separate multiple expressions by a semicolon all will be evaluated, but only the value of the last will be used. In this scope, the localization data for the current language is available as `local` and the Pokémon object is available as `pkm`.|
 
 If a helper and property have the same name, the helper takes precedence. This means that `{{box}}` will be one-indexed if you use it.
 
@@ -179,7 +181,7 @@ formats the met date as `YYYY-MM-DD`.
 
 ### Dashbars
 
-Additionally the [dashbars](https://github.com/pismute/dashbars) library is available for all your logic needs.
+Additionally the [dashbars](https://github.com/Cu3PO42/dashbars) library is available for all your logic needs.
 
 ## Block helpers
 
