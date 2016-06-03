@@ -28,7 +28,7 @@ AS|`/Nintendo 3DS/*/*/extdata/00000000/0011c500/00000000`
 3. When asked to save the battle video, say yes.
 4. Close your 3DS, take out the SD card and put it into your computer.
 5. Go to the appropriate folder for your game.
-6. Copy the file to a folder of your choice and append `-1` to the name.
+6. Copy the file to a folder of your choice and append `-1` to the name. **Never** save any data to the KeySAVᵉ folder itself.
 7. Now put your SD into your 3DS again.
 8. Start a battle enter any Pokémon first and the one you used in step 3 second and forfeit.
 9. When asked to save the battle video, say yes.
