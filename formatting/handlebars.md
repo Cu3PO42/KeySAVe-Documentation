@@ -141,8 +141,10 @@ KeySAVᵉ comes with the following helpers that are specific to Pokémon:
 |`metLocationName`|||
 |`eggLocationName`|||
 |`ballImage`||Include the ball image on [/r/svexchange](https://reddit.com/r/svexchange).|
-|`esv`|||
-|`tsv`|||
+|`esv`||The ESV padded to 4 digits.|
+|`tsv`||The TSV padded to 4 digits.|
+|`tid`||The TID padded to 5 digits.|
+|`sid`||The SID padded to 5 digits.|
 |`language`|||
 |`genderString`|`gender`|Usage example: `{{genderString gender}}`.|
 |`gameVersionString`|||
