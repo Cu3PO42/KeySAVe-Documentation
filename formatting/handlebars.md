@@ -93,7 +93,7 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`slot`|The slot in a box this Pokémon was found in. Imagine there being no 'line breaks' in the boxes, then this would be the index of the Pokémon. Zero-indexed.|
 |`form`||
 |`gender`|`0` represents male, `1` represents female, `2` is genderless.|
-|`metDate`|The date the Pokémon was hatched or captured. Represented as an array of three values in JavaScript standard. The first element is the year, the second the month (zero-indexed) and the third the day (one-indexed).|
+|`metDate`|The date the Pokémon was hatched or captured. Represented as an array of three values in JavaScript standard. The first element is the year, the second the month (zero-indexed) and the third the day (one-indexed). In most cases you will want to use the [Moment helper](#momentjs) to format dates. |
 |`eggDate`|The day an egg was originally received. See `metDate`.|
 |`isEgg`||
 |`isNick`||
