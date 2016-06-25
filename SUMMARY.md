@@ -3,6 +3,7 @@
 * [Getting Started](getting-started.md)
 * [Dumping](dumping.md)
   * [Homebrew](dumping/homebrew.md)
+  * [TEA](dumping/tea.md)
   * [YABD](dumping/yabd.md)
   * [Saves](dumping/saves.md)
   * [Battle Videos](dumping/battle-videos.md)
