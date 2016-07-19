@@ -10,6 +10,18 @@ When you initially create keys, KeySAVᵉ doesn't know how to decrypt all slots 
 
 That can sometimes happen when your key is not yet complete and is a direct consequence of how the decryption works. For more info read [this](dumping/saves.md#ghosts).
 
+## TEA is not working for me! Nothing happens when I click `Dump Trade`.
+
+There appears to be a bug that I have not yet properly tracked down that can cause this. Essentially an invalid value is written to the configuration file. Fortunately the fix is simple.  
+First, close KeySAVᵉ open your config file, it is located at
+
+* `%APPDATA%/keysave/config.json` if you use Windows,
+* `~/.config/keysave/config.json` if you use Linux and
+* `~/Library/Application Support/keysave/config.json` if you use OS X.
+
+Then find the line that says `knownTradeOffsets`. Below that you will find some cached data to speed up starting of the trade dump. If you find `null` at all in that section, delete it. Also make sure there are no two consecutive commas or a comma directly before the closing bracket (`]`).  
+Then save the config file and open KeySAVᵉ again. TEA should now work properly.
+
 ## How do I export my Pokémon?
 
 KeySAVᵉ can copy your dumping output to the clipboard, save it to a file or save the `pk6` files. Use the three buttons directly over the dumping output.
