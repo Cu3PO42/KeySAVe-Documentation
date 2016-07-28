@@ -18,10 +18,8 @@ During the following steps you will be asked to access your battle videos, they'
 
 Game|Folder  
 --|--
-X|`/Nintendo 3DS/*/*/extdata/00000000/0000055d/00000000`  
-Y|`/Nintendo 3DS/*/*/extdata/00000000/0000055e/00000000`
-OR|`/Nintendo 3DS/*/*/extdata/00000000/0011c400/00000000`
-AS|`/Nintendo 3DS/*/*/extdata/00000000/0011c500/00000000`
+X/Y|`/Nintendo 3DS/*/*/extdata/00000000/0000055d/00000000`  
+OR/AS|`/Nintendo 3DS/*/*/extdata/00000000/000011c5/00000000`
 
 1. Make sure you have at least two Pokémon in your party.
 2. Start a battle, enter exactly one Pokémon and forfeit.
