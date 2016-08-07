@@ -14,7 +14,7 @@ Traditionally if someone wanted to get their eggs or Pokémon checked and couldn
 2. Open the Pokémon game of your choice.
 3. Connect to the internet in game.
 4. Press `X`+`Y`, select *Enable Debugger* and press `A` to continue.
-5. In KeySAVᵉ, press the NTR button below the text field that shows the currently opened file.
+5. In KeySAVᵉ, press the TEA button (it looks like a to-go cup) below the text field that shows the currently opened file.
 6. Input your 3DS' IP address and click on *Connect*.
 7. Enter a trade.
 8. As soon as the trade window itself is shown, click *Trade Dump*.
