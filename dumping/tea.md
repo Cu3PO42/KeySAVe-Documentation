@@ -2,6 +2,10 @@
 
 Traditionally if someone wanted to get their eggs or Pokémon checked and couldn't use any of the methods themselves, the Pokémon had to be traded to someone with access to any of the checking methods and then traded back. Overall that takes about a minute per Pokémon. The TEA (**T**rading is an **E**xcessive **A**ssignment) method only requires someone to *show* you the Pokémon and it will read it straight from the 3DS memory.
 
+## Note
+
+At this time, NTR does not work with the latest system update (11.1). As such using TEA is impossible on this firmware. It may be possible to stay on an older version / upgrade only the friends module / patch the friends module version or many other things, however I will provide support with such endeavours.
+
 ## Setup
 
 * Make sure you have KeySAVᵉ 1.2.0 or later. If you currently have version 1.1.1 or later, you will receive an update, otherwise please [download a new version](https://github.com/Cu3PO42/KeySAVe/releases).

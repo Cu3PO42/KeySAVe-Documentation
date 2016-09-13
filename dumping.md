@@ -2,7 +2,7 @@
 
 There are various different methods that KeySAVᵉ can use to access and decrypt your data, each with their own unique requirements and advantages. From most convenient to least convenient these are:
 
-  1. [Homebrew](/dumping/homebrew.md) - at the time of writing a primary Homebrew entrypoint is freely available on the latest firmware (11.0.0-33).
+  1. [Homebrew](/dumping/homebrew.md) - at the time of writing a primary Homebrew entrypoint is freely available on firmware 11.0.0-33.
   2. [TEA](/dumping/tea.md) - dump the Pokémon shown to you in a trade. Useful mainly for helping other users. Requires NTR CFW, to get it, you must already have a CFW, if you don't know what this means, you don't have one.
   3. [YABD](/dumping/yabd.md) - requires a 3DS between 9.0.0 and 9.5.0.
   4. [Saves](/dumping/saves.md) - requires a digital copy  or a physical copy and a Powersaves device.
