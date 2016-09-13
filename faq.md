@@ -12,15 +12,7 @@ That can sometimes happen when your key is not yet complete and is a direct cons
 
 ## TEA is not working for me! Nothing happens when I click `Dump Trade`.
 
-There appears to be a bug that I have not yet properly tracked down that can cause this. Essentially an invalid value is written to the configuration file. Fortunately the fix is simple.  
-First, close KeySAVᵉ open your config file, it is located at
-
-* `%APPDATA%/keysave/config.json` if you use Windows,
-* `~/.config/keysave/config.json` if you use Linux and
-* `~/Library/Application Support/keysave/config.json` if you use OS X.
-
-Then find the line that says `knownTradeOffsets`. Below that you will find some cached data to speed up starting of the trade dump. If you find `null` at all in that section, delete it. Also make sure there are no two consecutive commas or a comma directly before the closing bracket (`]`).  
-Then save the config file and open KeySAVᵉ again. TEA should now work properly.
+This bug was related to a corrupt configuration file and was fixed in version 1.2.2. Please update :)
 
 ## How do I export my Pokémon?
 
