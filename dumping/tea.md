@@ -4,7 +4,7 @@ Traditionally if someone wanted to get their eggs or Pokémon checked and couldn
 
 ## Note
 
-At this time, NTR does not work with the latest system update (11.1). As such using TEA is impossible on this firmware. It may be possible to stay on an older version / upgrade only the friends module / patch the friends module version or many other things, however I will provide support with such endeavours.
+At this time, NTR does not work with the latest system update (11.1). As such using TEA is impossible on this firmware. If you want to continue using TEA, stay on 11.0, CFWs allow you to bypass the update requirement to play online.
 
 ## Setup
 
