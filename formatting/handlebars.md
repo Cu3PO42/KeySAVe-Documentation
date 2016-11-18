@@ -53,8 +53,9 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`nature`||
 |`species`||
 |`heldItem`||
-|`tid`||
+|`tid`|The TID used in Generation 6 and previous ones.|
 |`sid`||
+|`tid7`|The TID as used in Generation 7.|
 |`tsv`||
 |`esv`||
 |`move1`||
@@ -104,6 +105,7 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`nickname`||
 |`notOT`||
 |`ot`||
+|`version`|The generation the Pokémon was extracted from.|
 
 This is the raw data as saved by the game. This means all of these values are numbers and not numbers, i.e. the IDs used by the game internally. For example, if you had a Charizard, `species` would not contain `Charizard`, but `6`. While this saves space and enables us to easily view the data in different languages, it is highly impractical. For more info on this data, do visit the [Project Pokémon Wiki](https://projectpokemon.org/wiki/Pokemon_X/Y_3DS_Structure).
 
