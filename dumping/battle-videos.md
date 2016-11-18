@@ -20,6 +20,7 @@ Game|Folder
 --|--
 X/Y|`/Nintendo 3DS/*/*/extdata/00000000/0000055d/00000000`  
 OR/AS|`/Nintendo 3DS/*/*/extdata/00000000/000011c5/00000000`
+S/M|`Nintendo 3DS/*/*/extdata/00000000/00001648/0000000`
 
 1. Make sure you have at least two Pokémon in your party.
 2. Start a battle, enter exactly one Pokémon and forfeit.
