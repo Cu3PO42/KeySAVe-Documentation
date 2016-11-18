@@ -4,7 +4,7 @@ Using Battle Videos you can check up to 6 Pokémon at the same time of which at 
 
 ## Requirements
 
-* The VS Recorder. You obtain it in Kiloude city after beating the Elite 4 in XY and at the Battle Resort in ORAS.
+* The VS Recorder. You obtain it in Kiloude city after beating the Elite 4 in XY and at the Battle Resort in ORAS. In Sun and Moon you receive it as soon as you reach the first PokéCenter.
 * A friend that is willing to battle you.
 * Go to the games options and disable forced saving.
 

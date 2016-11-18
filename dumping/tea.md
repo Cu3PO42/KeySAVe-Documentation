@@ -1,6 +1,6 @@
 # Dumping Pokémon shown to you in a trade using TEA
 
-Traditionally if someone wanted to get their eggs or Pokémon checked and couldn't use any of the methods themselves, the Pokémon had to be traded to someone with access to any of the checking methods and then traded back. Overall that takes about a minute per Pokémon. The TEA (**T**rading is an **E**xcessive **A**ssignment) method only requires someone to *show* you the Pokémon and it will read it straight from the 3DS memory.
+Traditionally if someone wanted to get their eggs or Pokémon checked and couldn't use any of the methods themselves, the Pokémon had to be traded to someone with access to any of the checking methods and then traded back. Overall that takes about a minute per Pokémon. The TEA (**T**rading is an **E**xcessive **A**ssignment) method only requires someone to *show* you the Pokémon and it will read it straight from the 3DS memory. Currently TEA only works with Generation 6 games.
 
 ## Note
 
