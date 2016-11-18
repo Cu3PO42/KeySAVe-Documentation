@@ -17,7 +17,7 @@ TEA is now compatible with firmware 11.1. Just grab a new release of BootNTR fro
 1. Open BootNTR on your 3DS' homescreen and wait for it to finish.
 2. Open the Pokémon game of your choice.
 3. Connect to the internet in game.
-4. Press `X`+`Y`, select *Enable Debugger* and press `A` to continue.
+4. Press `X`+`Y`, seeect *Enable Debugger* and press `A` to continue.
 5. In KeySAVᵉ, press the TEA button (it looks like a to-go cup) below the text field that shows the currently opened file.
 6. Input your 3DS' IP address and click on *Connect*.
 7. Enter a trade.
