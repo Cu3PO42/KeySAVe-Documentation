@@ -1,6 +1,6 @@
 # Accessing your save data directly
 
-KeySAVᵉ can read and decrypt your save data directly. This requires either a digital copy of the game or a Powersaves 3DS if you use a physical copy. If you have a 3DS with access to Homebrew or a Cybersaves device, please read the respective guides instead.
+KeySAVᵉ can read and decrypt your save data directly. This requires either a digital copy of the game or a Powersaves 3DS if you use a physical copy (physical copies currently only work with Generation 6 games). If you have a 3DS with access to Homebrew or a Cybersaves device, please read the respective guides instead.
 
 Using this method you can view all 930 Pokémon in your boxes. Viewing your party and battle box is not currently supported. This is one of the fastest ways to check a large number of Pokémon after the initial decryption process is completed.
 
