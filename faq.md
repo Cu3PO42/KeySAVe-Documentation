@@ -34,3 +34,7 @@ Just click on 'more information' and an open button will appear. You only have t
 ## I'm on Windows and when trying to extract the zip file, it tells me the file name was too long for the destination.
 
 ~~This is a limitation of Windows. Please delete the extracted folder and extract the ZIP again to a folder closer to the root of your hard drive. For example `C:\KeySAVe`.~~ This issue should be fixed since version 1.1.1.
+
+## I can open my files, how do I find my TSV?
+
+In the options tab, select the TSV formatting. Now you can read your TSV off of any Pokémon that you captured or hatched yourself.
