@@ -1,8 +1,8 @@
 # Accessing your save data directly
 
-KeySAVᵉ can read and decrypt your save data directly. This requires either a digital copy of the game or a Powersaves 3DS if you use a physical copy (physical copies currently only work with Generation 6 games). If you have a 3DS with access to Homebrew or a Cybersaves device, please read the respective guides instead.
+KeySAVᵉ can read and decrypt your save data directly. This requires either a digital copy of the game or a Powersaves 3DS if you use a physical copy (physical copies currently only work with Generation 6 games). If you have a 3DS with access to Homebrew, a CFW or a Cybersaves device, please read the [decrypted saves](./decrypted-saves.md) instead.
 
-Using this method you can view all 930 Pokémon in your boxes. Viewing your party and battle box is not currently supported. This is one of the fastest ways to check a large number of Pokémon after the initial decryption process is completed.
+Using this method you can view all 930 / 960 Pokémon in your boxes. Viewing your party and battle box is not currently supported. This is one of the fastest ways to check a large number of Pokémon after the initial decryption process is completed.
 
 ## Initial decryption
 
@@ -13,7 +13,7 @@ This process differs only slightly from the decryption process used by the origi
 You will be required to create backups of your save in this process. If you are using
 
 * Powersaves and a physical copy, insert the game cartridge into the device, start the software , click on the `BACKUP` button and name the backup. The file will be located in `C:\Users\<YourUsernameHere>\Powersaves3DS` if you use Windows or `~/Documents/Powersaves3DS` if you use a Mac.
-* a digital copy, the saves are stored on the SD card of your 3DS in a folder specific to the game. If you are using X, the path is `title/00040000/00055d00`. For Y, it is `title/00040000/00055e00`. For OR, it is `title/00040000/0011C400`. For AS, it is `title/00040000/0011C500`. For Sun it is `title/00040000/00164800`, for Moon it is `title/00040000/00175e00`. Copy the file there to a folder of your choice on your PC and rename it as you wish. Never save any data to the KeySAVᵉ folder itself.
+* a digital copy, the saves are stored on the SD card of your 3DS in a folder specific to the game. First go to `Nintendo 3DS/<ID>/<ID>`, where `<ID>` are folders unique to your 3DS. If you are using X, the path from there is `title/00040000/00055d00/data`. For Y, it is `title/00040000/00055e00/data`. For OR, it is `title/00040000/0011C400/data`. For AS, it is `title/00040000/0011C500/data`. For Sun it is `title/00040000/00164800/data`, for Moon it is `title/00040000/00175e00/data`. Copy the file there to a folder of your choice on your PC and rename it as you wish. Never save any data to the KeySAVᵉ folder itself.
 
 1. Locate six Pokémon that you caught or breed yourself. They have to originate from the save that you are trying to create a key for. If you can't find enough, catch new ones.
 2. Put them into the first row of the first box in your computer.

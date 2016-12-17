@@ -6,7 +6,7 @@ every time you wanted to view the data. I removed that requirement around Decemb
 but had to change the breaking process and keys a little bit. KeySAVᵉ is compatible
 with both, but if you use files from the old breaking process, the restriction of
 having to save twice will apply, too. If at a later point you want to upgrade your key,
-follow the instructions [here](dumping/saves.md).
+follow the instructions [here](dumping/encrypted-saves.md).
 
 To import keys from your KeySAV2 installation, go to the `Breaking` tab and choose to
 either let KeySAVᵉ scan your home directory for any KeySAV2 installations (up to

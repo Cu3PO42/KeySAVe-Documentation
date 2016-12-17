@@ -80,6 +80,6 @@ In addition to that, a number of settings are available:
 
   * Show ESV for hatched Pokémon (or leave it blank)
   * Split Pokémon into boxes (or show them as one big table)
-  * Show/hide/mark [ghosts](../dumping/saves.md#ghosts)
+  * Show/hide/mark [ghosts](../dumping/encrypted-saves.md#ghosts)
 
 {% include "footer.md" %}
