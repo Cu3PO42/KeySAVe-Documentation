@@ -159,7 +159,7 @@ KeySAVᵉ comes with the following helpers that are specific to Pokémon:
 |`markings`||Show ◯△□♡☆◇ or ●▲■♥★◆, each character depending on if the mark is set or not.|
 |`regionName`|||
 |`countryName`|||
-|`ribbons`||An array of Ribbons this Pokémon has. Usage example: `{{#each ribbons}}{{this}}{{/each}}`|
+|`ribbons`||An array of Ribbons this Pokémon has. Usage example: `{{#each (ribbons)}}{{this}}{{/each}}`|
 |`characteristic`|||
 |`esacpe`|`str`|Escape backslashes and quotes.|
 |`toJson`|`element`|Stringify the passed parameter to JSON.|
