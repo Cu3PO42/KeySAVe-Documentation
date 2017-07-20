@@ -15,6 +15,7 @@ You will be required to create backups of your save in this process. If you are 
 * Powersaves and a physical copy, insert the game cartridge into the device, start the software , click on the `BACKUP` button and name the backup. The file will be located in `C:\Users\<YourUsernameHere>\Powersaves3DS` if you use Windows or `~/Documents/Powersaves3DS` if you use a Mac.
 * a digital copy, the saves are stored on the SD card of your 3DS in a folder specific to the game. First go to `Nintendo 3DS/<ID>/<ID>`, where `<ID>` are folders unique to your 3DS. If you are using X, the path from there is `title/00040000/00055d00/data`. For Y, it is `title/00040000/00055e00/data`. For OR, it is `title/00040000/0011C400/data`. For AS, it is `title/00040000/0011C500/data`. For Sun it is `title/00040000/00164800/data`, for Moon it is `title/00040000/00175e00/data`. Copy the file there to a folder of your choice on your PC and rename it as you wish. Never save any data to the KeySAVᵉ folder itself.
 
+
 1. Locate six Pokémon that you caught or breed yourself. They have to originate from the save that you are trying to create a key for. If you can't find enough, catch new ones.
 2. Put them into the first row of the first box in your computer.
 3. Save your game.

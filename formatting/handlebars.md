@@ -55,7 +55,7 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`heldItem`||
 |`tid`|The TID as it would be shown by the game.|
 |`sid`||
-|`tid7`|The TID as used in Generation 6 and previous ones.|
+|`tid6`|The TID as used in Generation 6 and previous ones.|
 |`tid7`|The TID as used in Generation 7.|
 |`tsv`||
 |`esv`||

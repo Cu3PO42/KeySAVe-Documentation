@@ -9,8 +9,10 @@ If you get your Pokémon checked with TEA, please make sure to only show your pa
 ## Setup
 
 * Make sure you have KeySAVᵉ 1.2.0 (1.4.0 for Generation 7 games) or later. If you currently have version 1.1.1 or later, you will receive an update, otherwise please [download a new version](https://github.com/Cu3PO42/KeySAVe/releases).
-* Install NTR CFW on your 3DS. This requires that you currently run a CFW such as Luma3DS. If your 3DS is on version 11.0 or later, you will need a hardmod to obtain this, otherwise you can follow the first three parts of [this guide](https://github.com/Plailect/Guide/wiki). Once you have a CFW, install [this](https://github.com/astronautlevel2/BootNTR/releases/latest) CIA file and copy the `ntr.bin` from [here](https://github.com/44670/BootNTR/files/222950/NTR_3.4PREVIEW2_STARTER_KIT.zip) if you are on a N3DS, or from [here](https://github.com/44670/BootNTR/releases/download/3.2/NTR.3.2.zip) if you are on an O3DS to the root of your SD card.
-* If you want to use TEA with Generation 7 games, usage of a New 3DS required, it will not work on an Old 3DS!
+* Install NTR CFW on your 3DS. This requires that you currently run a CFW such as Luma3DS. If your 3DS is on version 11.3 or later, you will need a hardmod to obtain this, otherwise you can follow [this guide](https://3ds.guide/). Once you have a CFW, install [this](https://github.com/Nanquitas/BootNTR/releases) CIA file.
+    * TEA can be used with both Generation 6 and Generation 7 games, but each generation requires a different version of NTR CFW.
+    * NTR is used for Generation 6, and NTR Mode 3 is used for Generation 7.
+    * For maximum convenience, install both CIA files. Load the appropriate NTR CFW before launching your game.
 * Find out your 3DS' IP address in your local network. You can either check in your router's configuration interface (I am unable to provide assistance for this) or start one of the many FTP clients for 3DS. Your IP will be on the top screen.
 
 ## Dumping Pokémon
