@@ -79,6 +79,7 @@ Your templates can contain arbitrary HTML that will be rendered. Any expression 
 |`ribbonSet2`|Another bitfield of width 16 constituting ribbons: Royal, Gorgeous Royal, Artist, Footprint, Record, Legend, Country, National, Earth, World, Classic, Premier, Event, Birthday, Special, Souvenir. |
 |`ribbonSet3`|A bitfield of width 8 representing the following ribbons: Wishing, Battle Champion, Regional Champion, World Champion, None, None, Hoenn Champion.|
 |`ribbonSet4`|A bitfield of width 8 representing the following ribbons: Contest Star, Coolness Master, Beauty Master, Cuteness Master, Cleverness Master, Toughness Master.|
+|`ribbonData`|An array of 8 bytes representing the raw data used to store the ribbons.|
 |`chk`|The checksum for the file. It is not invariant.|
 |`otFriendship`||
 |`otAffection`||
@@ -159,7 +160,7 @@ KeySAVᵉ comes with the following helpers that are specific to Pokémon:
 |`markings`||Show ◯△□♡☆◇ or ●▲■♥★◆, each character depending on if the mark is set or not.|
 |`regionName`|||
 |`countryName`|||
-|`ribbons`||An array of Ribbons this Pokémon has. Usage example: `{{#each (ribbons)}}{{this}}{{/each}}`|
+|`ribbons`||An array of Ribbons this Pokémon has. Usage example: `{{#each (ribbons)}}{{this}}, {{/each}}`|
 |`characteristic`|||
 |`esacpe`|`str`|Escape backslashes and quotes.|
 |`toJson`|`element`|Stringify the passed parameter to JSON.|
