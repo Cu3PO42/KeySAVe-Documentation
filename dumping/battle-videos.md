@@ -20,7 +20,8 @@ Game|Folder
 --|--
 X/Y|`/Nintendo 3DS/*/*/extdata/00000000/0000055d/00000000`  
 OR/AS|`/Nintendo 3DS/*/*/extdata/00000000/000011c5/00000000`
-S/M|`Nintendo 3DS/*/*/extdata/00000000/00001648/0000000`
+S/M|`/Nintendo 3DS/*/*/extdata/00000000/00001648/0000000`
+US/UM|`/Nintendo 3DS/*/*/extdata/00000000/00001b50/00000000`
 
 The file sizes for Battle Videos are 28,256 bytes for Generation 6 games and 27,584 bytes for Generation 6 games.
 

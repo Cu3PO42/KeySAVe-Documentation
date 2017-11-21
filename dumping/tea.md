@@ -8,7 +8,7 @@ If you get your Pokémon checked with TEA, please make sure to only show your pa
 
 ## Setup
 
-* Make sure you have KeySAVᵉ 1.2.0 (1.4.0 for Generation 7 games) or later. If you currently have version 1.1.1 or later, you will receive an update, otherwise please [download a new version](https://github.com/Cu3PO42/KeySAVe/releases).
+* Make sure you have KeySAVᵉ 1.2.0 (1.4.0 for SM, 1.5.2 for USUM) or later. If you currently have version 1.1.1 or later, you will receive an update, otherwise please [download a new version](https://github.com/Cu3PO42/KeySAVe/releases).
 * Install NTR CFW on your 3DS. This requires that you currently run a CFW such as Luma3DS. If your 3DS is on version 11.3 or later, you will need a hardmod to obtain this, otherwise you can follow [this guide](https://3ds.guide/). Once you have a CFW, install [this](https://github.com/Nanquitas/BootNTR/releases) CIA file.
     * TEA can be used with both Generation 6 and Generation 7 games, but each generation requires a different version of NTR CFW.
     * NTR is used for Generation 6, and NTR Mode 3 is used for Generation 7.

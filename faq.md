@@ -16,7 +16,7 @@ This bug was related to a corrupt configuration file and was fixed in version 1.
 
 ## How do I export my Pokémon?
 
-KeySAVᵉ can copy your dumping output to the clipboard, save it to a file or save the `pk6` files. Use the three buttons directly over the dumping output.
+KeySAVᵉ can copy your dumping output to the clipboard, save it to a file or save the `pk6` or `pk7` files. Use the three buttons directly over the dumping output.
 
 ## Why is KeySAVᵉ so big?
 
