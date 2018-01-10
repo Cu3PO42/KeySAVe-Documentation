@@ -23,7 +23,7 @@ OR/AS|`/Nintendo 3DS/*/*/extdata/00000000/000011c5/00000000`
 S/M|`/Nintendo 3DS/*/*/extdata/00000000/00001648/0000000`
 US/UM|`/Nintendo 3DS/*/*/extdata/00000000/00001b50/00000000`
 
-The file sizes for Battle Videos are 28,256 bytes for Generation 6 games and 27,584 bytes for Generation 6 games.
+The file sizes for Battle Videos are 28,256 bytes for Generation 6 games and 27,584 bytes for Generation 7 games.
 
 1. Make sure you have at least two Pokémon in your party.
 2. Start a battle, enter exactly one Pokémon and forfeit.
